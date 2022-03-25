@@ -7,8 +7,8 @@
 - Open terminal 
 - Go to folder with .xcodeproj
 - Write sudo swift install.swift
-- open your project
-- use a template
+- Open your project
+- Use a template
 
 ## References
 - [https://www.objc.io/issues/13-architecture/viper/](https://www.objc.io/issues/13-architecture/viper/)
