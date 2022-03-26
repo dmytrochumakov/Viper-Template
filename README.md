@@ -13,3 +13,6 @@
 ## References
 - [https://www.objc.io/issues/13-architecture/viper/](https://www.objc.io/issues/13-architecture/viper/)
 - [https://github.com/Juanpe/Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module)
+
+## License
+Viper-Template is licensed under the MIT License, please see the [LICENSE](LICENSE) file.
